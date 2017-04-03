@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoustoExercise</string>
+    <string name="endpoint_api_gousto" translatable="false">https://api.gousto.co.uk</string>
+</resources>
